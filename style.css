@@ -86,7 +86,7 @@ nav {
   text-align: center;
   font-size: 80px;
   font-family: "Stardom";
-  color: #e2da17;
+  color: #fff;
   text-transform: uppercase;
   border: none;
   padding: 3em 2em 2em 2em;
@@ -153,10 +153,6 @@ nav {
   text-align: center;
   color: rgb(60, 60, 60);
   margin-bottom: 4em;
-}
-
-.footer {
-  display: flex;
 }
 
 .footer-item {
